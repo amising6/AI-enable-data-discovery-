@@ -1,0 +1,31 @@
+Technology Stack
+
+Data Layer
+
+* Snowflake
+* PostgreSQL (optional)
+
+AI Layer
+
+* OpenAI
+* Snowflake Cortex
+* Open Source LLMs
+
+Vector Database
+
+* FAISS
+* ChromaDB
+* Pinecone
+
+Framework
+
+* LangChain
+* LlamaIndex
+
+Front End
+
+* Streamlit
+
+Programming Language
+
+* Python
