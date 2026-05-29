@@ -1,0 +1,25 @@
+Documents / SharePoint / Confluence / Snowflake
+                    |
+                    V
+          Document Ingestion Layer
+                    |
+                    V
+             Text Chunking
+                    |
+                    V
+             Embedding Model
+                    |
+                    V
+              Vector Store
+                    |
+                    V
+           Retrieval Engine
+                    |
+                    V
+            Context Builder
+                    |
+                    V
+                 LLM
+                    |
+                    V
+         Source-Cited Response
